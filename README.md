@@ -4,7 +4,12 @@
 
 ### /csv/
  * Daten im CSV Format
-    * test 
+    * basic_bundesland.csv
+    * basic_geschlecht_iso_iec_5218.csv
+    * basic_laender.csv
+    * basic_plz.csv
+    * basic_waehrung.csv
+    * pax.csv
 
 ### /sql/
  * SQL Befehle um die Tabellen zu erstellen
