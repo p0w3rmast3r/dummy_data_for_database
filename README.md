@@ -1,8 +1,13 @@
 # ***Dummydaten für Datenbanken***
 
-### 
+### /csv/
+-> Daten im CSV Format 
 
-### Anleitung für XAMPP
+### /sql/
+-> SQL Befehle um die Tabellen zu erstellen
+
+
+## Anleitung für XAMPP
 
 - im **XAMPP Control Panel** auf ***"Shell"*** klicken
 - den Befehl `mysql -u root -p` eingeben und mit der ***"ENTER" Taste*** bestätigen
