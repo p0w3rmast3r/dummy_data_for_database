@@ -9,7 +9,7 @@
     * **basic_laender.csv** -> Alle Länder inklusive Kürzel laut ISO
     * **basic_plz.csv** -> Alle Postleitzahlen, inllusive Ortschaften und Ortsteile von Deutschland
     * **basic_waehrung.csv** -> Alle Währungen
-    * ***pax.csv*** -> 999
+    * ***pax.csv*** -> 999 Beispieldatensätze mit Fiktiven Personen
 
 ### /sql/
  * SQL Befehle um die Tabellen zu erstellen
