@@ -1,8 +1,8 @@
 # dummy_data_for_database
 # ***Dummydaten für Datenbanken***
 
-Anleitung für XAMPP
-======================
+## Anleitung für XAMPP
+
 - im XAMPP Control Panel auf "Shell" klicken
 - den Befehl "mysql -u root -p" eingeben und mit der "ENTER" Taste bestätigen
 - Passwort eingeben oder wenn kein passwort festgelegt wurde einfachmit der "ENTER" Taste bestätigen
