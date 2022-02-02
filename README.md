@@ -1,10 +1,10 @@
 # ***Dummydaten für Datenbanken***
 
-### * /csv/
-    *Daten im CSV Format 
+### /csv/
+ * Daten im CSV Format 
 
-### * /sql/
-    * SQL Befehle um die Tabellen zu erstellen
+### /sql/
+ * SQL Befehle um die Tabellen zu erstellen
 
 
 ## Anleitung für XAMPP
