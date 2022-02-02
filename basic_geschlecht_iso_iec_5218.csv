@@ -1,0 +1,5 @@
+"geschlecht_key[int(2)]";"geschlecht_wert[varchar(255)]";"geschlecht_name[varchar(255)]";"geschlecht_engl";"geschlecht_frz[varchar(255)]"
+"0";"unbekannt";"unbekannt";"not known";"inconnu"
+"1";"männlich";"Mann";"male";"masculin"
+"2";"weiblich";"Frau";"female";"féminin"
+"9";"nicht zutreffend (gegenstandslos nicht anwendbar)";"gegenstandslos";"not applicable";"sans objet"
