@@ -4,12 +4,12 @@
 
 ### /csv/
  * Daten im CSV Format
-    * basic_bundesland.csv
-    * basic_geschlecht_iso_iec_5218.csv
-    * basic_laender.csv
-    * basic_plz.csv
-    * basic_waehrung.csv
-    * pax.csv
+    * **basic_bundesland.csv** -> Alle Bundesländer von der Bundesrepublic Deutschland
+    * **basic_geschlecht_iso_iec_5218.csv** -> Geschlechter nach ISO/IEC 5218 in Deutsch, Englisch und Französisch
+    * **basic_laender.csv** -> Alle Länder inklusive Kürzel laut ISO
+    * **basic_plz.csv** -> Alle Postleitzahlen, inllusive Ortschaften und Ortsteile von Deutschland
+    * **basic_waehrung.csv** -> Alle Währungen
+    * ***pax.csv*** -> 999
 
 ### /sql/
  * SQL Befehle um die Tabellen zu erstellen
