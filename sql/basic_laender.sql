@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS `basic_laender`;
 CREATE TABLE `basic_laender` (
   `laender_key` int(5) UNSIGNED ZEROFILL NOT NULL,
   `laender_code` varchar(2) DEFAULT NULL,
