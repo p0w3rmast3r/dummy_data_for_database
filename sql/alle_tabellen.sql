@@ -36,7 +36,7 @@ ALTER TABLE `basic_geschlecht_iso_iec_5218`
 -- basic_laender
 --
 
-
+DROP TABLE IF EXISTS `basic_laender`;
 CREATE TABLE `basic_laender` (
   `laender_key` int(5) UNSIGNED ZEROFILL NOT NULL,
   `laender_code` varchar(2) DEFAULT NULL,
