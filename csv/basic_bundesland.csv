@@ -1,7 +1,7 @@
 "bundesland_id[varchar(2)]";"bundesland_name[varchar(255)]";"bundesland_name_eng[varchar(255)]"
 "BB";"Brandenburg";"Brandenburg"
 "BE";"Berlin";"Berlin"
-"BW";"Baden-Württemberg";"Baden-Württemberg"
+"BW";"Baden-Württemberg";"Baden-Wurttemberg"
 "BY";"Bayern";"Bavaria"
 "HB";"Bremen";"Bremen"
 "HE";"Hessen";"Hesse"
